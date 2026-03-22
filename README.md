@@ -1,0 +1,2 @@
+# .github
+Farewell Rudix!
